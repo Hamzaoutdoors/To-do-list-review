@@ -1,9 +1,14 @@
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: #d3d3d3;
   font-family: monospace;
   color: #575757;
+  min-height: 100vh;
 }
 
 .text {
@@ -21,6 +26,7 @@ body {
 ul {
   padding: 10px;
   padding-bottom: 0;
+  background-color: #fff;
 }
 
 li {
