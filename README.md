@@ -10,7 +10,7 @@
   > screen shot of my to-do-list tool
 
 # To-DO-List Live Demo
-[Live demo](https://hamzaoutdoors.github.io/to-do-list/)
+[Live demo](https://hamzaoutdoors.github.io/To-do-list-review/)
 
 # Built with 🔨
 - HTML, CSS,
