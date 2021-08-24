@@ -7,6 +7,7 @@
 > The user's to-do list is stored in the local storage, so when he refreshes the page, he can always find the list there.
 
 ![ScreenShot](https://user-images.githubusercontent.com/80895497/130614400-f9fd0272-5d77-49e0-b214-52905238ca9e.PNG)
+  > screen shot of my to-do-list tool
 
 # To-DO-List Live Demo
 [Live demo](https://hamzaoutdoors.github.io/to-do-list/)
